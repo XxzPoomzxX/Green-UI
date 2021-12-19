@@ -1,4 +1,4 @@
-local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/NiceBBMBThai12/NBTScript/main/Gui%20Th%20Edit%20free%2001"))()
+local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/XxzPoomzxX/Green-UI/main/UI"))()
 
 local XX =
     Material.Load(
